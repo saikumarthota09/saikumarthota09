@@ -1,7 +1,16 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 <h1 align="center">Hi 👋, I'm Sai Kumar Thota</h1>
-<br>🔭 I’m currently working on developing a dynamic Cricket scoring platform and Human Resources Management System [HRMS] using Angular framework and React, implementing responsive design and smooth user interactions in Vickey apps technologies.<br>👯 I’m looking to collaborate on open-source Angular projects, especially those related to improving user experience and accessibility.<br>🤝 I’m looking for help with optimizing performance and scalability in Angular applications, particularly in handling large datasets and optimizing rendering.<br>🌱 I’m currently learning advanced Angular techniques such as lazy loading modules and implementing server-side rendering for improved SEO.<br>💬 Ask me about Angular best practices, component architecture, or optimizing Angular applications for performance.<br>⚡ Fun fact: Did you know that Angular was initially developed by Google and released in 2010 as AngularJS, then rewritten in TypeScript and released as Angular 2+ in 2016?
+🔭 Currently: Working on web development with GoLang, databases (PgAdmin4, MySQL), and AWS services (ECS, EC2, S3, RDS, DMS, CloudWatch, IAM, Cognito, SES, SNS, Lambda). Basic knowledge of Azure.
 
+👯 Collaborating: Open to contributing to open-source projects, especially in web development, GoLang, and cloud infrastructure.
+
+🤝 Looking for: Help with optimizing performance and scalability in Go applications, focusing on handling large datasets and improving request processing.
+
+🌱 Learning: Advanced Go techniques and frameworks to boost backend efficiency and scalability.
+
+💬 Ask me about: Go best practices, API design, and backend performance optimization.
+
+⚡ Fun fact: GoLang was designed by Google for simplicity, scalability, and concurrent programming.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_a_i_k_U_m_a_r_t_h_o_t_a.ig) 
