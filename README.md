@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
-<h1 align="center">Hi 👋, I'm Sai Kumar Thota</h1>
+<h1 align="center">Hi 👋, I'm ꙄΛ! KùmΛr ThΘtΛ</h1>
 🔭 Currently: Working on web development with GoLang, databases (PgAdmin4, MySQL), and AWS services (ECS, EC2, S3, RDS, DMS, CloudWatch, IAM, Cognito, SES, SNS, Lambda). Basic knowledge of Azure.
 
 👯 Collaborating: Open to contributing to open-source projects, especially in web development, GoLang, and cloud infrastructure.
