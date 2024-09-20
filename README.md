@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/sai-kumar-thota-b11ab422a/)
 <h1 align="center">Hi 👋, I'm ꙄΛ! KùmΛr ThΘtΛ</h1>
 🔭 Currently: Working on web development with GoLang, databases (PgAdmin4, MySQL), and AWS services (ECS, EC2, S3, RDS, DMS, CloudWatch, IAM, Cognito, SES, SNS, Lambda). Basic knowledge of Azure.
 
